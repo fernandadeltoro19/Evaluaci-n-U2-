@@ -1,0 +1,44 @@
+C:\Users\Deidad\source\repos\CRUD(Encriptaciones )\CRUD(Encriptaciones )\bin\Debug\CRUD(Encriptaciones ).exe.config
+C:\Users\Deidad\source\repos\CRUD(Encriptaciones )\CRUD(Encriptaciones )\bin\Debug\CRUD(Encriptaciones ).exe
+C:\Users\Deidad\source\repos\CRUD(Encriptaciones )\CRUD(Encriptaciones )\bin\Debug\CRUD(Encriptaciones ).pdb
+C:\Users\Deidad\source\repos\CRUD(Encriptaciones )\CRUD(Encriptaciones )\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Deidad\source\repos\CRUD(Encriptaciones )\CRUD(Encriptaciones )\bin\Debug\Google.Protobuf.dll
+C:\Users\Deidad\source\repos\CRUD(Encriptaciones )\CRUD(Encriptaciones )\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Deidad\source\repos\CRUD(Encriptaciones )\CRUD(Encriptaciones )\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Deidad\source\repos\CRUD(Encriptaciones )\CRUD(Encriptaciones )\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Deidad\source\repos\CRUD(Encriptaciones )\CRUD(Encriptaciones )\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Deidad\source\repos\CRUD(Encriptaciones )\CRUD(Encriptaciones )\bin\Debug\MySql.Data.dll
+C:\Users\Deidad\source\repos\CRUD(Encriptaciones )\CRUD(Encriptaciones )\bin\Debug\System.Buffers.dll
+C:\Users\Deidad\source\repos\CRUD(Encriptaciones )\CRUD(Encriptaciones )\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Deidad\source\repos\CRUD(Encriptaciones )\CRUD(Encriptaciones )\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Deidad\source\repos\CRUD(Encriptaciones )\CRUD(Encriptaciones )\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Deidad\source\repos\CRUD(Encriptaciones )\CRUD(Encriptaciones )\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Deidad\source\repos\CRUD(Encriptaciones )\CRUD(Encriptaciones )\bin\Debug\System.Memory.dll
+C:\Users\Deidad\source\repos\CRUD(Encriptaciones )\CRUD(Encriptaciones )\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Deidad\source\repos\CRUD(Encriptaciones )\CRUD(Encriptaciones )\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Deidad\source\repos\CRUD(Encriptaciones )\CRUD(Encriptaciones )\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Deidad\source\repos\CRUD(Encriptaciones )\CRUD(Encriptaciones )\bin\Debug\ZstdSharp.dll
+C:\Users\Deidad\source\repos\CRUD(Encriptaciones )\CRUD(Encriptaciones )\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Deidad\source\repos\CRUD(Encriptaciones )\CRUD(Encriptaciones )\bin\Debug\Google.Protobuf.pdb
+C:\Users\Deidad\source\repos\CRUD(Encriptaciones )\CRUD(Encriptaciones )\bin\Debug\Google.Protobuf.xml
+C:\Users\Deidad\source\repos\CRUD(Encriptaciones )\CRUD(Encriptaciones )\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Deidad\source\repos\CRUD(Encriptaciones )\CRUD(Encriptaciones )\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Deidad\source\repos\CRUD(Encriptaciones )\CRUD(Encriptaciones )\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Deidad\source\repos\CRUD(Encriptaciones )\CRUD(Encriptaciones )\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Deidad\source\repos\CRUD(Encriptaciones )\CRUD(Encriptaciones )\bin\Debug\MySql.Data.xml
+C:\Users\Deidad\source\repos\CRUD(Encriptaciones )\CRUD(Encriptaciones )\bin\Debug\System.Buffers.xml
+C:\Users\Deidad\source\repos\CRUD(Encriptaciones )\CRUD(Encriptaciones )\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Deidad\source\repos\CRUD(Encriptaciones )\CRUD(Encriptaciones )\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Deidad\source\repos\CRUD(Encriptaciones )\CRUD(Encriptaciones )\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Deidad\source\repos\CRUD(Encriptaciones )\CRUD(Encriptaciones )\bin\Debug\System.Memory.xml
+C:\Users\Deidad\source\repos\CRUD(Encriptaciones )\CRUD(Encriptaciones )\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Deidad\source\repos\CRUD(Encriptaciones )\CRUD(Encriptaciones )\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Deidad\source\repos\CRUD(Encriptaciones )\CRUD(Encriptaciones )\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Deidad\source\repos\CRUD(Encriptaciones )\CRUD(Encriptaciones )\obj\Debug\CRUD(Encriptaciones ).csproj.AssemblyReference.cache
+C:\Users\Deidad\source\repos\CRUD(Encriptaciones )\CRUD(Encriptaciones )\obj\Debug\CRUD_Encriptaciones__.Form1.resources
+C:\Users\Deidad\source\repos\CRUD(Encriptaciones )\CRUD(Encriptaciones )\obj\Debug\CRUD_Encriptaciones__.Properties.Resources.resources
+C:\Users\Deidad\source\repos\CRUD(Encriptaciones )\CRUD(Encriptaciones )\obj\Debug\CRUD(Encriptaciones ).csproj.GenerateResource.cache
+C:\Users\Deidad\source\repos\CRUD(Encriptaciones )\CRUD(Encriptaciones )\obj\Debug\CRUD(Encriptaciones ).csproj.CoreCompileInputs.cache
+C:\Users\Deidad\source\repos\CRUD(Encriptaciones )\CRUD(Encriptaciones )\obj\Debug\CRUD(Encriptaciones ).csproj.CopyComplete
+C:\Users\Deidad\source\repos\CRUD(Encriptaciones )\CRUD(Encriptaciones )\obj\Debug\CRUD(Encriptaciones ).exe
+C:\Users\Deidad\source\repos\CRUD(Encriptaciones )\CRUD(Encriptaciones )\obj\Debug\CRUD(Encriptaciones ).pdb
